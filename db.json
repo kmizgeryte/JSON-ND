@@ -1,0 +1,174 @@
+{
+  "products": [
+{
+"id": 1,
+"name": "Ultra HD 4K Smart TV",
+"title":"electronics",
+"price": 4000,
+"description": "Experience stunning 4K visuals with our Ultra HD Smart TV"
+},
+{
+"id": 2,
+"name": "Bluetooth Noise-Canceling Headphones",
+"title":"electronics",
+"price": 2000,
+"description": "Immerse yourself in music with our Blootooth Noise_Canceling Headphones, offering exceptional sound guality and comfort"
+},    
+{
+"id": 3,
+"name": "Product 3",
+"title":"Books",
+"price": 1000,
+"description": "This is description about product 3"
+},
+{
+  "id": 4,
+  "name": "Product 4",
+  "title":"Fitness",
+  "price": 3000,
+  "description": "This is description about product 4"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "title":"Fitness",
+    "price": 4000,
+    "description": "This is description about product 5"
+    },
+{
+  "id": 6,
+  "name": "Product 6 ",
+  "title":"Gardening",
+  "price": 5000,
+  "description": "This is description about product 6"
+  },
+{
+  "id": 7,
+  "name": "Product 7",
+  "title":"Furniture",
+  "price": 6000,
+  "description": "This is description about product 7"
+  },
+  {
+    "id": 8,
+    "name": "Product ",
+    "title":"Furniture",
+    "price": 7000,
+    "description": "This is description about product 8"
+    },
+{
+  "id": 9,
+  "name": "Product ",
+  "title":"Fitness",
+  "price": 3040,
+  "description": "This is description about product 9"
+  },
+  {
+    "id": 10,
+    "name": "Product ",
+    "title":"Fitness",
+    "price": 3740,
+    "description": "This is description about product 10"
+    }
+  ],
+
+
+"reviews": [
+    {
+        "id": 1,
+        "clientName": "Alice Johnson",
+        "reating": 3,
+        "comment": "Good, but expected better image Quality",
+        "description": "The TV is good overall. but I was expecting sharper image Quality for the price",
+        "productId": 1
+    },
+    {
+      "id": 2,
+      "clientName": "Tom Jackins 3",
+      "reating": 4,
+      "comment": "Review title 3",
+      "description": "Review 3 for product id 1",
+      "productId": 1
+  },
+  {
+    "id": 3,
+    "clientName": " Johnson",
+    "reating": 3,
+    "comment": "Headphones not so good",
+    "description": "Bluetooth Noise-canceling Headhones, I was expecting sharper image Quality for the price",
+    "productId": 2
+},
+{
+  "id": 4,
+  "clientName": "Alice ",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 2
+},
+{
+  "id": 5,
+  "clientName": "Ona Petrute",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 3
+},
+{
+  "id": 6,
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 4
+},
+{
+  "id": 7,
+  "clientName": "Ona Lulu",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 5
+},
+{
+  "id": 8,
+  "clientName": "Kazimiera Petrute",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 6
+},
+{
+  "id": 9,
+  "clientName": "Ona Ona",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 7
+},
+{
+  "id": 10,
+  "clientName": "Ona Petrute",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 8
+},
+{
+  "id": 11,
+  "clientName": "Petrute",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 9
+},
+{
+  "id": 12,
+  "clientName": "Mausiukas",
+  "reating": 4,
+  "comment": "Review title 7",
+  "description": "Review 7 for product id 2",
+  "productId": 10
+}
+
+]
+ }
